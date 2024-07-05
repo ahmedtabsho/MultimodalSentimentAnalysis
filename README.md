@@ -11,13 +11,12 @@ this approach in providing nuanced sentiment analysis for multimedia content.
 
 ## Presentation
 
-For a detailed overview of the project, please view our [Canva Presentation](https://www.canva.com/design/DAGGB5CwW1Y/uOutsZtHxDe0FE5eOyW-GA/edit?utm_content=DAGGB5CwW1Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+For a detailed overview of the project, please view our [Canva Presentation]([https://www.canva.com/design/DAGGB5CwW1Y/uOutsZtHxDe0FE5eOyW-GA/edit?utm_content=DAGGB5CwW1Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGGB5CwW1Y/gfhLKaB6CDhEyaAnT1Qy8Q/view?utm_content=DAGGB5CwW1Y&utm_campaign=designshare&utm_medium=link&utm_source=editor)).
 
 
 
 Code Sources
-[https://drive.google.com/drive/folders/1T1XMsrnmHWzYkQO-ipRj5Y-_fuO5dvc-?
-usp=drive_link]
+[https://drive.google.com/drive/folders/1T1XMsrnmHWzYkQO-ipRj5Y-_fuO5dvc-?usp=drive_link]
 
 
 
